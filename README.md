@@ -7,6 +7,8 @@ The training - validation - test data splits are formed with 70 % - 15 % - 15 % 
 The training and validation data consists of 2600 images for No Collision, 2490 images for Collision and 2500 images for Collided classes respectively.
 The test data consists of 390 images for No Collision, 374 images for Collision and 375 images for Collided classes respectively.
 
+**Download Dataset**
+
 The Dataset can be downloaded from the following link upon request.
 
 https://drive.google.com/drive/folders/1VfpBJRSVit3Nu6rJzwFbTH17U3KDwgeg?usp=sharing
@@ -17,9 +19,12 @@ https://drive.google.com/drive/folders/1VfpBJRSVit3Nu6rJzwFbTH17U3KDwgeg?usp=sha
 ![Github_Sample_1](https://github.com/gmadhushan/Vehicular-Collision-Image-Classification-Dataset/assets/62023065/ec2c20ff-94a8-47a7-a4ac-b9d14ed9c0e2)
 
 
+**Inference**
+
 The best performing image classification deep learning model built on MobileNet backbone using the Teachable Machine on this proposed dataset can be downloaded from the folder "Model".
 
-Inference on the test data can be run using the "Inference.py" file.
+Inference on the test data can be run using the "Inference_Metrics.py" file.
+Inference on individial classes of test data and saving of output images with prediction class and confidence score can be done using the "Inference_ImageOut.py" file.
 
 **Sample inputs and results are shown below**
 
