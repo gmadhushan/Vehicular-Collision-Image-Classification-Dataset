@@ -1,4 +1,5 @@
-
+"""This program can be used for running inference on the complete test data.
+Confusion Matrix, an image classification evaluation metric is computed."""
 
 #Import all the necessary libraries
 import os
