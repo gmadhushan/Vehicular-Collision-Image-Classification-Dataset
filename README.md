@@ -4,6 +4,6 @@ This repository contains the Vehicular Collision Image Classification Dataset cr
 The Dataset can be downloaded from the following link.
 
 
-The best performing model on this proposed dataset can be downloaded from the folder "Model".
+The best performing image classification deep learning model built on MobileNet backbone using the Teachable Machine on this proposed dataset can be downloaded from the folder "Model".
 
 Inference on the test data can be run using the "Inference.py" file.
