@@ -15,8 +15,7 @@ https://drive.google.com/drive/folders/1VfpBJRSVit3Nu6rJzwFbTH17U3KDwgeg?usp=sha
 
 
 **Example Images from the Dataset**
-
-![Github_Sample_1](https://github.com/gmadhushan/Vehicular-Collision-Image-Classification-Dataset/assets/62023065/ec2c20ff-94a8-47a7-a4ac-b9d14ed9c0e2)
+![Github_Sample_1](https://github.com/gmadhushan/Vehicular-Collision-Image-Classification-Dataset/assets/62023065/05dd5c3f-8479-4a72-94e1-944bd073139a)
 
 **Inference**
 
@@ -26,5 +25,6 @@ Inference on the test data can be run using the "Inference_Metrics.py" file.
 Inference on individial classes of test data and saving of output images with prediction class and confidence score can be done using the "Inference_ImageOut.py" file.
 
 **Sample Inputs and Results**
+![Github_Sample_2](https://github.com/gmadhushan/Vehicular-Collision-Image-Classification-Dataset/assets/62023065/6e0ffcb7-c3a5-4587-8496-dc6abd3e5fd6)
 
-![Github_Sample_2](https://github.com/gmadhushan/Vehicular-Collision-Image-Classification-Dataset/assets/62023065/d78c964b-f022-4b9f-84bc-474f3016a6b1)
+
