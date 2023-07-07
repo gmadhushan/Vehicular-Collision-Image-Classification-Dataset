@@ -7,7 +7,9 @@ The training - validation - test data splits are formed with 70 % - 15 % - 15 % 
 The training and validation data consists of 2600 images for No Collision, 2490 images for Collision and 2500 images for Collided classes respectively.
 The test data consists of 390 images for No Collision, 374 images for Collision and 375 images for Collided classes respectively.
 
-The Dataset can be downloaded from the following link.
+The Dataset can be downloaded from the following link upon request.
+
+https://drive.google.com/drive/folders/1VfpBJRSVit3Nu6rJzwFbTH17U3KDwgeg?usp=sharing
 
 
 **Example Images from the Dataset**
