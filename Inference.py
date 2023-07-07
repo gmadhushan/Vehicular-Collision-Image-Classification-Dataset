@@ -14,7 +14,8 @@ import matplotlib.pyplot as plt
 #%%Load the keras model from the stored directory
 
 model = load_model("/home/Vehicular_Collision_Image_Classification/Model/keras_model.h5", compile=False)
-#%%
+
+#%%Run inference on the test for the above loaded keras model
 
 test_data = []
 y_pred = []
@@ -53,7 +54,7 @@ y_true = []
 for i in range(len(test_data)):
     y_true.append(test_data[i][1])
     
-
+#%%Compute the performance metrics  - Confusion Matrix and Classification Report
 cm = confusion_matrix(y_true, y_pred)
 
 disp = ConfusionMatrixDisplay(confusion_matrix = cm,
@@ -71,6 +72,7 @@ print('\nClassification Report')
 report = classification_report(y_true, y_pred,target_names = ['No Collision (Class 0)','Collision (Class 1)', 'Collided (Class 2)'])
 print(report)
 
+#%%Create a text file to log the results of inference on test data
 logfile = open("/home/Vehicular_Collision_Image_Classification/log_inference.txt","a+")
 logfile.write("\nConfusion Matrix\n")
 logfile.write(str(cm))
