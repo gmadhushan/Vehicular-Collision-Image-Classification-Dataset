@@ -18,6 +18,9 @@ https://drive.google.com/drive/folders/1VfpBJRSVit3Nu6rJzwFbTH17U3KDwgeg?usp=sha
 
 ![Github_Sample_1](https://github.com/gmadhushan/Vehicular-Collision-Image-Classification-Dataset/assets/62023065/ec2c20ff-94a8-47a7-a4ac-b9d14ed9c0e2)
 
+/home/madhu-phd/Pictures/Screenshots/Github_Sample_1.png
+
+
 
 **Inference**
 
