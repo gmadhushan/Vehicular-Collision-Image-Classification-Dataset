@@ -1,5 +1,5 @@
 # Vehicular-Collision-Image-Classification-Dataset
-This repository contains the Vehicular Collision Image Classification Dataset created from corwd-sourced dashboard camera videos containing on-road vehicular collisions.
+This repository contains the Vehicular Collision Image Classification Dataset created from crowd-sourced dashboard camera videos containing on-road vehicular collisions.
 
 It is a three-class image classification problem consisting of images belonging to "No Collision", "Collision" and "Collided" classes.
 The vehicular collision image classification dataset consists of a total of 8931 images.
